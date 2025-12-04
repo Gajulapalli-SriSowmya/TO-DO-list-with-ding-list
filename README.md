@@ -49,10 +49,6 @@
 
 ---
 
-## Demo
-
-You can try the live demo here: [Link to your live demo]
-
 ---
 
 ## Installation
@@ -111,11 +107,6 @@ ding-todo-app/
 
 ---
 
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgements
 
