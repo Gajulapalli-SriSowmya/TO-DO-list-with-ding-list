@@ -4,7 +4,6 @@
 
 # Ding! • The Most Beautiful To-Do App Ever Made
 
-![Ding App Screenshot](screenshot.png) <!-- Replace with actual screenshot -->
 
 **Ding!** is a visually stunning, interactive to-do app that makes completing tasks feel magical. With a clean UI, animated confetti celebrations, theme switching, a Pomodoro timer, and mood tracking, it’s designed to make productivity fun and rewarding.
 
